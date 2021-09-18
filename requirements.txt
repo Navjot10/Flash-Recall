@@ -9,4 +9,4 @@ deskew==0.10.33
 Flask_WTF==0.15.1
 Pillow==8.3.2
 protobuf==3.18.0
-skimage==0.0
+
